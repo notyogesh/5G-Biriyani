@@ -2,8 +2,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: black;
+  text-align: center;
+  color: antiquewhite;
 }
 img {
+  margin-top: 10vh;
   width: 100vw;
   height: auto;
 }
