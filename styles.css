@@ -7,6 +7,6 @@ body {
   color: antiquewhite;
 }
 img {
-  width: auto;
-  height: 90vh;
+  width: 100vw;
+  height: auto;
 }
